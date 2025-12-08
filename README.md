@@ -12,7 +12,7 @@ Atualmente, estou aprimorando minhas habilidades para, em breve, ingressar no me
 
 ### Minhas principais redes sociais são:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_leandr00/?next=%2F)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaa_chagass/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurleandrodev/)
 
 ##
