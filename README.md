@@ -1,11 +1,10 @@
 ## Olá! 👋  
 
-Sou Arthur Leandro, desenvolvedor web formado em Desenvolvimento de Sistemas pelo Senai SP e com experiência profissional adquirida durante meu período como Aprendiz de Tecnologia na Atvos. Ao longo da minha formação e atuação, construí uma base sólida em programação, banco de dados e desenvolvimento de aplicações web.
+Sou Isabelli Chagas, desenvolvedora em formação e estudante de tecnologia. Atualmente estou aprendendo e praticando desenvolvimento web, criando projetos que reforçam minhas habilidades e ampliam meus conhecimentos em programação e lógica.
 
-Tenho experiência prática com HTML, CSS, JavaScript, PHP, MySQL, APIs, JSON e Laravel, além de conhecimentos em Git, versionamento de código e criação de sistemas completos, incluindo CRUDs, autenticação, responsividade e boas práticas de desenvolvimento. Atuei com resolução de problemas, organização de tarefas e aplicação real de conceitos de lógica e tecnologia no ambiente corporativo.
+Tenho experiência com HTML, CSS, JavaScript, PHP, MySQL e Git, além de estar iniciando meus estudos em frameworks e desenvolvimento backend. Busco sempre evoluir e criar projetos que me desafiem, mantendo disciplina, organização e foco no aprendizado contínuo.
 
-Sou dedicado, disciplinado e focado em evolução contínua. Busco agora uma oportunidade para iniciar minha trajetória profissional como desenvolvedor, aplicando minhas habilidades em projetos reais e contribuindo de forma significativa para a equipe e para a empresa.
-
+Atualmente, estou aprimorando minhas habilidades para, em breve, ingressar no mercado como desenvolvedora e contribuir com soluções eficientes e criativas.
 
 
 
