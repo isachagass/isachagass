@@ -26,7 +26,7 @@ Você pode acompanhar minha trajetória, conhecer meus projetos e entrar em cont
 </div>
 
 
----
+##
 
 ## 🧠 Tecnologias
 
@@ -39,7 +39,7 @@ Você pode acompanhar minha trajetória, conhecer meus projetos e entrar em cont
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
----
+##
 
 ### 🔧 Back-end
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -49,7 +49,7 @@ Você pode acompanhar minha trajetória, conhecer meus projetos e entrar em cont
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 
----
+##
 
 ## 🧰 Ferramentas
 
@@ -61,7 +61,7 @@ Ferramentas que fazem parte do meu dia a dia e ajudam a manter meu fluxo de trab
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
 </div>
 
----
+##
 
 > "A tecnologia muda rápido, mas a vontade de aprender precisa ser mais rápida ainda."
 
