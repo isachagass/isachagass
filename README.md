@@ -18,10 +18,10 @@ My goal is to keep evolving, build projects with real impact, and contribute to 
 You can follow my journey, explore my projects, and get in touch with me through my networks:
 
 <p align="left">
-  <a href="https://www.instagram.com/isaa_chagass/">
+  <a href="https://www.instagram.com/isaa_chagass/" template="__blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/isabelli-chagas-kubo-48b1153a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/isabelli-chagas-kubo-48b1153a0?utm_source=share_via&utm_content=profile&utm_medium=member_android" template="__blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
 </p>
