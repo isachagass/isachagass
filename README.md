@@ -1,21 +1,21 @@
 
-<h1 align="center">Olá, eu sou a <strong>Isabelli Chagas</strong></h1>
+<h1 align="center">Hello, I'm <strong>Isabelli Chagas</strong></h1>
 
-## Sobre mim
+## About Me
 
-Sou estudante de desenvolvimento e estou construindo minha trajetória na tecnologia com dedicação, curiosidade e foco em resultados. Me interesso por todas as etapas do desenvolvimento de uma aplicação, desde a criação da interface até a lógica que acontece por trás, sempre buscando entender o processo como um todo.
+I am a development student building my journey in technology with dedication, curiosity, and a focus on results. I’m interested in all stages of application development, from creating user interfaces to the logic behind the scenes, always seeking to understand the process as a whole.
 
-Gosto de transformar ideias em projetos reais, criando interfaces funcionais e desenvolvendo lógicas que dão vida às funcionalidades. Busco sempre entender não apenas o “como fazer”, mas também o “por que fazer”, valorizando boas práticas, organização e evolução contínua.
+I enjoy turning ideas into real projects, creating functional interfaces and developing the logic that brings features to life. I strive to understand not only “how to build” but also “why to build,” valuing good practices, organization, and continuous improvement.
 
-Tive a oportunidade de participar de uma competição de programação e cheguei à fase final, uma experiência que fortaleceu minha capacidade de resolver problemas sob pressão, aprender rápido e pensar de forma criativa.
+I had the opportunity to participate in a programming competition and reached the final stage, an experience that strengthened my ability to solve problems under pressure, learn quickly, and think creatively.
 
-Meu objetivo é continuar evoluindo, construir projetos com impacto real e contribuir com equipes que valorizam aprendizado, colaboração e crescimento constante.
+My goal is to keep evolving, build projects with real impact, and contribute to teams that value learning, collaboration, and constant growth.
 
 ---
 
-## Onde me encontrar
+## Where to Find Me
 
-Você pode acompanhar minha trajetória, conhecer meus projetos e entrar em contato comigo pelas minhas redes:
+You can follow my journey, explore my projects, and get in touch with me through my networks:
 
 <p align="left">
   <a href="https://www.instagram.com/">
@@ -28,7 +28,7 @@ Você pode acompanhar minha trajetória, conhecer meus projetos e entrar em cont
 
 ---
 
-## Tecnologias
+## Technologies
 
 ### Front-end
 <p>
@@ -51,7 +51,7 @@ Você pode acompanhar minha trajetória, conhecer meus projetos e entrar em cont
 
 ---
 
-## Ferramentas
+## Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="50"/>
@@ -61,7 +61,7 @@ Você pode acompanhar minha trajetória, conhecer meus projetos e entrar em cont
 
 ---
 
-> "A tecnologia muda rápido, mas a vontade de aprender precisa ser mais rápida ainda."
+> "Technology changes fast, but the willingness to learn must change even faster."
 
-Obrigada por visitar meu perfil!  
-Sinta-se à vontade para acompanhar minha evolução ou trocar uma ideia comigo.
+Thank you for visiting my profile!  
+Feel free to follow my journey or reach out to me.
