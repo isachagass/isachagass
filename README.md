@@ -21,7 +21,7 @@ You can follow my journey, explore my projects, and get in touch with me through
   <a href="https://www.instagram.com/isaa_chagass/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/isabelli-chagas-kubo-48b1153a0?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://www.linkedin.com/in/isachagasdev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
 </p>
