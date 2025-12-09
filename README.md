@@ -11,7 +11,7 @@ Tive a oportunidade de participar de uma competição de programação e cheguei
 
 Meu objetivo é continuar evoluindo, construir projetos com impacto real e contribuir com equipes que valorizam aprendizado, colaboração e crescimento constante.
 
----
+##
 
 
 ## 🌐 Onde me encontrar
