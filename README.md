@@ -65,8 +65,9 @@ You can follow my journey, explore my projects, and get in touch with me through
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="50"/>
   <img src="https://skillicons.dev/icons?i=postman" width="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="50"/>
+  <img src="https://skillicons.dev/icons?i=canva" width="50"/>
 </p>
 
 ---
