@@ -53,6 +53,14 @@ You can follow my journey, explore my projects, and get in touch with me through
 
 ---
 
+### Programming & Logic
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+</p>
+
+---
+
 ## Tools
 
 <p>
